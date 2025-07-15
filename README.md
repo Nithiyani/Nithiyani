@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Nithiyani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋 I'm Nithiyani
 
-<!---
-Nithiyani/Nithiyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate web developer from Sri Lanka 🇱🇰  
+I love building user-friendly web apps using **Next.js**, **React**, and **TypeScript**.  
+Currently learning and growing in full-stack development.
+
+- 🌱 Learning: Backend APIs, MongoDB
+- 💻 Tech Stack: HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS
+- 📫 How to reach me: [nithujenova@gmail.com]
+
+Thanks for visiting my profile! 😊
